@@ -1,0 +1,152 @@
+{
+    "1": {
+        "filename": "adder_n10.qasm",
+        "num_subexp_without_obp": 128,
+        "num_subexp_with_obp": null
+    },
+    "2": {
+        "filename": "adder_n4.qasm",
+        "num_subexp_without_obp": 432,
+        "num_subexp_with_obp": 144
+    },
+    "3": {
+        "filename": "basis_change_n3.qasm",
+        "num_subexp_without_obp": 2592,
+        "num_subexp_with_obp": 24
+    },
+    "4": {
+        "filename": "basis_trotter_n4.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "5": {
+        "filename": "bell_n4.qasm",
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": 24
+    },
+    "6": {
+        "filename": "cat_state_n4.qasm",
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": null
+    },
+    "7": {
+        "filename": "deutsch_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": null
+    },
+    "8": {
+        "filename": "dnn_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": 2
+    },
+    "9": {
+        "filename": "dnn_n8.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "10": {
+        "filename": "error_correctiond3_n5.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": 32
+    },
+    "11": {
+        "filename": "fredkin_n3.qasm",
+        "num_subexp_without_obp": 2592,
+        "num_subexp_with_obp": 1152
+    },
+    "12": {
+        "filename": "grover_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": null
+    },
+    "13": {
+        "filename": "hhl_n7.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "14": {
+        "filename": "hs4_n4.qasm",
+        "num_subexp_without_obp": 2,
+        "num_subexp_with_obp": null
+    },
+    "15": {
+        "filename": "iswap_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": null
+    },
+    "16": {
+        "filename": "linearsolver_n3.qasm",
+        "num_subexp_without_obp": 72,
+        "num_subexp_with_obp": 24
+    },
+    "17": {
+        "filename": "qaoa_n3.qasm",
+        "num_subexp_without_obp": 576,
+        "num_subexp_with_obp": 192
+    },
+    "18": {
+        "filename": "qaoa_n6.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "19": {
+        "filename": "qec_en_n5.qasm",
+        "num_subexp_without_obp": 576,
+        "num_subexp_with_obp": null
+    },
+    "20": {
+        "filename": "qft_n4.qasm",
+        "num_subexp_without_obp": 2304,
+        "num_subexp_with_obp": 768
+    },
+    "21": {
+        "filename": "qpe_n9.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "22": {
+        "filename": "qrng_n4.qasm",
+        "num_subexp_without_obp": 4,
+        "num_subexp_with_obp": null
+    },
+    "23": {
+        "filename": "quantumwalks_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": 2
+    },
+    "24": {
+        "filename": "sat_n7.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "25": {
+        "filename": "simon_n6.qasm",
+        "num_subexp_without_obp": 6,
+        "num_subexp_with_obp": 12
+    },
+    "26": {
+        "filename": "teleportation_n3.qasm",
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": 5
+    },
+    "27": {
+        "filename": "toffoli_n3.qasm",
+        "num_subexp_without_obp": 576,
+        "num_subexp_with_obp": null
+    },
+    "28": {
+        "filename": "variational_n4.qasm",
+        "num_subexp_without_obp": 72,
+        "num_subexp_with_obp": 24
+    },
+    "29": {
+        "filename": "vqe_n4.qasm",
+        "num_subexp_without_obp": 432,
+        "num_subexp_with_obp": 144
+    },
+    "30": {
+        "filename": "wstate_n3.qasm",
+        "num_subexp_without_obp": 2592,
+        "num_subexp_with_obp": 4
+    }
+}

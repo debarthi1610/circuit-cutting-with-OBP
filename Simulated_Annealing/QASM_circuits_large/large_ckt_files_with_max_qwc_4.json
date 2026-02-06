@@ -1,0 +1,281 @@
+{
+    "1": {
+        "filename": "100.qasm",
+        "num_qubits": 100,
+        "synth_ckt_depth": 1414,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "2": {
+        "filename": "32.qasm",
+        "num_qubits": 32,
+        "synth_ckt_depth": 454,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "3": {
+        "filename": "adder_n118.qasm",
+        "num_qubits": 118,
+        "synth_ckt_depth": 1200,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 1,
+        "num_subexp_without_obp": 108,
+        "num_subexp_with_obp": 84
+    },
+    "4": {
+        "filename": "adder_n28.qasm",
+        "num_qubits": 28,
+        "synth_ckt_depth": 370,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 0,
+        "num_subexp_without_obp": 108,
+        "num_subexp_with_obp": 14
+    },
+    "5": {
+        "filename": "adder_n64.qasm",
+        "num_qubits": 64,
+        "synth_ckt_depth": 702,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 1,
+        "num_subexp_without_obp": 108,
+        "num_subexp_with_obp": 90
+    },
+    "6": {
+        "filename": "bv_n30.qasm",
+        "num_qubits": 30,
+        "synth_ckt_depth": 30,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 8,
+        "num_subexp_with_obp": null
+    },
+    "7": {
+        "filename": "bv_n70.qasm",
+        "num_qubits": 70,
+        "synth_ckt_depth": 48,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 6,
+        "num_subexp_with_obp": null
+    },
+    "8": {
+        "filename": "cat_n35.qasm",
+        "num_qubits": 35,
+        "synth_ckt_depth": 106,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": null
+    },
+    "9": {
+        "filename": "cat_n65.qasm",
+        "num_qubits": 65,
+        "synth_ckt_depth": 196,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": null
+    },
+    "10": {
+        "filename": "dnn_n33.qasm",
+        "num_qubits": 33,
+        "synth_ckt_depth": 312,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "11": {
+        "filename": "dnn_n51.qasm",
+        "num_qubits": 51,
+        "synth_ckt_depth": 464,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "12": {
+        "filename": "ghz_n40.qasm",
+        "num_qubits": 40,
+        "synth_ckt_depth": 121,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": null
+    },
+    "13": {
+        "filename": "ghz_n78.qasm",
+        "num_qubits": 78,
+        "synth_ckt_depth": 235,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": null
+    },
+    "14": {
+        "filename": "ising_n34.qasm",
+        "num_qubits": 34,
+        "synth_ckt_depth": 21,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": null
+    },
+    "15": {
+        "filename": "ising_n42.qasm",
+        "num_qubits": 42,
+        "synth_ckt_depth": 21,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": null
+    },
+    "16": {
+        "filename": "ising_n66.qasm",
+        "num_qubits": 66,
+        "synth_ckt_depth": 21,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": null
+    },
+    "17": {
+        "filename": "ising_n98.qasm",
+        "num_qubits": 98,
+        "synth_ckt_depth": 21,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": null
+    },
+    "18": {
+        "filename": "knn_n31.qasm",
+        "num_qubits": 31,
+        "synth_ckt_depth": 266,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 2,
+        "num_subexp_without_obp": 192,
+        "num_subexp_with_obp": 288
+    },
+    "19": {
+        "filename": "knn_n41.qasm",
+        "num_qubits": 41,
+        "synth_ckt_depth": 350,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": 1,
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": 32
+    },
+    "20": {
+        "filename": "knn_n67.qasm",
+        "num_qubits": 67,
+        "synth_ckt_depth": 572,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 2,
+        "num_subexp_without_obp": 192,
+        "num_subexp_with_obp": 288
+    },
+    "21": {
+        "filename": "qft_n29.qasm",
+        "num_qubits": 29,
+        "synth_ckt_depth": 361,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "22": {
+        "filename": "qft_n63.qasm",
+        "num_qubits": 63,
+        "synth_ckt_depth": 803,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "23": {
+        "filename": "qugan_n111.qasm",
+        "num_qubits": 111,
+        "synth_ckt_depth": 959,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "24": {
+        "filename": "qugan_n39.qasm",
+        "num_qubits": 39,
+        "synth_ckt_depth": 347,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "25": {
+        "filename": "qugan_n71.qasm",
+        "num_qubits": 71,
+        "synth_ckt_depth": 619,
+        "number_of_cuts": null,
+        "number_of_obp_cuts": null,
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "26": {
+        "filename": "swap_test_n115.qasm",
+        "num_qubits": 115,
+        "synth_ckt_depth": 981,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 2,
+        "num_subexp_without_obp": 192,
+        "num_subexp_with_obp": 288
+    },
+    "27": {
+        "filename": "swap_test_n41.qasm",
+        "num_qubits": 41,
+        "synth_ckt_depth": 352,
+        "number_of_cuts": 1,
+        "number_of_obp_cuts": 1,
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": 32
+    },
+    "28": {
+        "filename": "swap_test_n83.qasm",
+        "num_qubits": 83,
+        "synth_ckt_depth": 709,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 2,
+        "num_subexp_without_obp": 192,
+        "num_subexp_with_obp": 288
+    },
+    "29": {
+        "filename": "wstate_n118.qasm",
+        "num_qubits": 118,
+        "synth_ckt_depth": 593,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 2,
+        "num_subexp_without_obp": 72,
+        "num_subexp_with_obp": 216
+    },
+    "30": {
+        "filename": "wstate_n36.qasm",
+        "num_qubits": 36,
+        "synth_ckt_depth": 183,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 2,
+        "num_subexp_without_obp": 72,
+        "num_subexp_with_obp": 216
+    },
+    "31": {
+        "filename": "wstate_n76.qasm",
+        "num_qubits": 76,
+        "synth_ckt_depth": 383,
+        "number_of_cuts": 2,
+        "number_of_obp_cuts": 2,
+        "num_subexp_without_obp": 72,
+        "num_subexp_with_obp": 216
+    }
+}

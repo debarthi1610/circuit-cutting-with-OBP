@@ -1,0 +1,107 @@
+{
+    "1": {
+        "filename": "bigadder_n18.qasm",
+        "num_subexp_without_obp": 72,
+        "num_subexp_with_obp": 18
+    },
+    "2": {
+        "filename": "bv_n14.qasm",
+        "num_subexp_without_obp": 8,
+        "num_subexp_with_obp": null
+    },
+    "3": {
+        "filename": "bv_n19.qasm",
+        "num_subexp_without_obp": 8,
+        "num_subexp_with_obp": null
+    },
+    "4": {
+        "filename": "bwt_n21.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "5": {
+        "filename": "cat_state_n22.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "6": {
+        "filename": "cc_n12.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "7": {
+        "filename": "dnn_n16.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "8": {
+        "filename": "gcm_h6.qasm",
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": 24
+    },
+    "9": {
+        "filename": "ghz_state_n23.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "10": {
+        "filename": "ising_n26.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "11": {
+        "filename": "knn_n25.qasm",
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": 24
+    },
+    "12": {
+        "filename": "multiplier_n15.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "13": {
+        "filename": "multiply_n13.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": 128
+    },
+    "14": {
+        "filename": "qec9xz_n17.qasm",
+        "num_subexp_without_obp": 6912,
+        "num_subexp_with_obp": null
+    },
+    "15": {
+        "filename": "qf21_n15.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "16": {
+        "filename": "qft_n18.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "17": {
+        "filename": "sat_n11.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "18": {
+        "filename": "seca_n11.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "19": {
+        "filename": "square_root_n18.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "20": {
+        "filename": "swap_test_n25.qasm",
+        "num_subexp_without_obp": 16,
+        "num_subexp_with_obp": 24
+    },
+    "21": {
+        "filename": "wstate_n27.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    }
+}

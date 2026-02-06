@@ -1,0 +1,170 @@
+{
+    "1": {
+        "filename": "bigadder_n18.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 81.0,
+        "subcirc_length": {
+            "0": 9,
+            "1": 9
+        }
+    },
+    "2": {
+        "filename": "bv_n14.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 144.0,
+        "subcirc_length": {
+            "0": 15
+        }
+    },
+    "3": {
+        "filename": "bv_n19.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 256.0,
+        "subcirc_length": {
+            "0": 21
+        }
+    },
+    "4": {
+        "filename": "bwt_n21.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "5": {
+        "filename": "cat_state_n22.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "6": {
+        "filename": "cc_n12.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "7": {
+        "filename": "dnn_n16.qasm",
+        "num_cuts": 16,
+        "sampling_overhead": 1853020188851841.0,
+        "subcirc_length": {
+            "0": 8,
+            "1": 8
+        }
+    },
+    "8": {
+        "filename": "gcm_h6.qasm",
+        "num_cuts": 168,
+        "sampling_overhead": 2.0546676624565608e+160,
+        "subcirc_length": {
+            "0": 6,
+            "1": 1,
+            "2": 6
+        }
+    },
+    "9": {
+        "filename": "ghz_state_n23.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "10": {
+        "filename": "ising_n26.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "11": {
+        "filename": "knn_n25.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 256.0,
+        "subcirc_length": {
+            "0": 11,
+            "1": 11,
+            "2": 5
+        }
+    },
+    "12": {
+        "filename": "multiplier_n15.qasm",
+        "num_cuts": 71,
+        "sampling_overhead": 5.639208733960175e+67,
+        "subcirc_length": {
+            "0": 7,
+            "1": 7,
+            "2": 1
+        }
+    },
+    "13": {
+        "filename": "multiply_n13.qasm",
+        "num_cuts": 18,
+        "sampling_overhead": 1.5009463529699914e+17,
+        "subcirc_length": {
+            "0": 13
+        }
+    },
+    "14": {
+        "filename": "qec9xz_n17.qasm",
+        "num_cuts": 4,
+        "sampling_overhead": 20736.0,
+        "subcirc_length": {
+            "0": 6,
+            "1": 7,
+            "2": 6
+        }
+    },
+    "15": {
+        "filename": "qf21_n15.qasm",
+        "num_cuts": 46,
+        "sampling_overhead": 7.855167211278943e+43,
+        "subcirc_length": {
+            "0": 15
+        }
+    },
+    "16": {
+        "filename": "qft_n18.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "17": {
+        "filename": "sat_n11.qasm",
+        "num_cuts": 58,
+        "sampling_overhead": 2.2185312344622608e+55,
+        "subcirc_length": {
+            "0": 2,
+            "1": 5,
+            "2": 4
+        }
+    },
+    "18": {
+        "filename": "seca_n11.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "19": {
+        "filename": "square_root_n18.qasm",
+        "num_cuts": 328,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 5,
+            "1": 6,
+            "2": 7
+        }
+    },
+    "20": {
+        "filename": "swap_test_n25.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 256.0,
+        "subcirc_length": {
+            "0": 11,
+            "1": 11,
+            "2": 5
+        }
+    },
+    "21": {
+        "filename": "wstate_n27.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    }
+}

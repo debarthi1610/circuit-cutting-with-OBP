@@ -1,0 +1,72 @@
+{
+    "1": {
+        "filename": "adder_n10.qasm",
+        "num_subexp_without_obp": 128,
+        "num_subexp_with_obp": null
+    },
+    "2": {
+        "filename": "adder_n4.qasm",
+        "num_subexp_without_obp": 432,
+        "num_subexp_with_obp": 36
+    },
+    "3": {
+        "filename": "basis_change_n3.qasm",
+        "num_subexp_without_obp": 2592,
+        "num_subexp_with_obp": 1296
+    },
+    "4": {
+        "filename": "basis_trotter_n4.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "5": {
+        "filename": "bell_n4.qasm",
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": 6
+    },
+    "6": {
+        "filename": "cat_state_n4.qasm",
+        "num_subexp_without_obp": 12,
+        "num_subexp_with_obp": null
+    },
+    "7": {
+        "filename": "deutsch_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": null
+    },
+    "8": {
+        "filename": "dnn_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": 1
+    },
+    "9": {
+        "filename": "dnn_n8.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "10": {
+        "filename": "error_correctiond3_n5.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": 1
+    },
+    "11": {
+        "filename": "fredkin_n3.qasm",
+        "num_subexp_without_obp": 2592,
+        "num_subexp_with_obp": 216
+    },
+    "12": {
+        "filename": "grover_n2.qasm",
+        "num_subexp_without_obp": 1,
+        "num_subexp_with_obp": null
+    },
+    "13": {
+        "filename": "hhl_n7.qasm",
+        "num_subexp_without_obp": null,
+        "num_subexp_with_obp": null
+    },
+    "14": {
+        "filename": "hs4_n4.qasm",
+        "num_subexp_without_obp": 2,
+        "num_subexp_with_obp": null
+    }
+}

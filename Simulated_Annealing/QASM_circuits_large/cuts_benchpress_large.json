@@ -1,0 +1,214 @@
+{
+    "1": {
+        "filename": "100.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 100
+        }
+    },
+    "2": {
+        "filename": "32.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 32
+        }
+    },
+    "3": {
+        "filename": "adder_n118.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "4": {
+        "filename": "adder_n28.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "5": {
+        "filename": "adder_n64.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "6": {
+        "filename": "bv_n30.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 30
+        }
+    },
+    "7": {
+        "filename": "bv_n70.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 70
+        }
+    },
+    "8": {
+        "filename": "cat_n35.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "9": {
+        "filename": "cat_n65.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "10": {
+        "filename": "dnn_n33.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "11": {
+        "filename": "dnn_n51.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "12": {
+        "filename": "ghz_n40.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "13": {
+        "filename": "ghz_n78.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "14": {
+        "filename": "ising_n34.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "15": {
+        "filename": "ising_n42.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "16": {
+        "filename": "ising_n66.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "17": {
+        "filename": "ising_n98.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "18": {
+        "filename": "knn_n31.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 31
+        }
+    },
+    "19": {
+        "filename": "knn_n41.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 41
+        }
+    },
+    "20": {
+        "filename": "knn_n67.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 67
+        }
+    },
+    "21": {
+        "filename": "qft_n29.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "22": {
+        "filename": "qft_n63.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "23": {
+        "filename": "qugan_n111.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 111
+        }
+    },
+    "24": {
+        "filename": "qugan_n39.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 39
+        }
+    },
+    "25": {
+        "filename": "qugan_n71.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 71
+        }
+    },
+    "26": {
+        "filename": "swap_test_n115.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 115
+        }
+    },
+    "27": {
+        "filename": "swap_test_n41.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 41
+        }
+    },
+    "28": {
+        "filename": "swap_test_n83.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": Infinity,
+        "subcirc_length": {
+            "0": 83
+        }
+    },
+    "29": {
+        "filename": "wstate_n118.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "30": {
+        "filename": "wstate_n36.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "31": {
+        "filename": "wstate_n76.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    }
+}

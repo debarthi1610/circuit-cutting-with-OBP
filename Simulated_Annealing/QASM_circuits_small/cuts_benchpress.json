@@ -1,0 +1,316 @@
+{
+    "1": {
+        "filename": "adder_n10.qasm",
+        "num_cuts": 5,
+        "sampling_overhead": 589824.0,
+        "subcirc_length": {
+            "0": 7,
+            "1": 5,
+            "2": 1
+        }
+    },
+    "2": {
+        "filename": "adder_n4.qasm",
+        "num_cuts": 3,
+        "sampling_overhead": 729.0,
+        "subcirc_length": {
+            "0": 2,
+            "1": 2
+        }
+    },
+    "3": {
+        "filename": "basis_change_n3.qasm",
+        "num_cuts": 10,
+        "sampling_overhead": 3486784401.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        }
+    },
+    "4": {
+        "filename": "basis_trotter_n4.qasm",
+        "num_cuts": 112,
+        "sampling_overhead": 7.50172357610828e+106,
+        "subcirc_length": {
+            "0": 2,
+            "1": 2
+        }
+    },
+    "5": {
+        "filename": "bb84_n8.qasm",
+        "num_cuts": null,
+        "sampling_overhead": null,
+        "subcirc_length": null
+    },
+    "6": {
+        "filename": "bell_n4.qasm",
+        "num_cuts": 1,
+        "sampling_overhead": 9.0,
+        "subcirc_length": {
+            "0": 2,
+            "1": 2
+        }
+    },
+    "7": {
+        "filename": "cat_state_n4.qasm",
+        "num_cuts": 1,
+        "sampling_overhead": 9.0,
+        "subcirc_length": {
+            "0": 2,
+            "1": 2
+        }
+    },
+    "8": {
+        "filename": "deutsch_n2.qasm",
+        "num_cuts": 1,
+        "sampling_overhead": 9.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1
+        }
+    },
+    "9": {
+        "filename": "dnn_n2.qasm",
+        "num_cuts": 3,
+        "sampling_overhead": 729.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1
+        }
+    },
+    "10": {
+        "filename": "dnn_n8.qasm",
+        "num_cuts": 16,
+        "sampling_overhead": 1853020188851841.0,
+        "subcirc_length": {
+            "0": 4,
+            "1": 4
+        }
+    },
+    "11": {
+        "filename": "error_correctiond3_n5.qasm",
+        "num_cuts": 25,
+        "sampling_overhead": 7.178979876918526e+23,
+        "subcirc_length": {
+            "0": 1,
+            "1": 2,
+            "2": 1,
+            "3": 1
+        }
+    },
+    "12": {
+        "filename": "fredkin_n3.qasm",
+        "num_cuts": 8,
+        "sampling_overhead": 43046721.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        }
+    },
+    "13": {
+        "filename": "grover_n2.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 81.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1
+        }
+    },
+    "14": {
+        "filename": "hhl_n7.qasm",
+        "num_cuts": 68,
+        "sampling_overhead": 7.735540101454287e+64,
+        "subcirc_length": {
+            "0": 3,
+            "1": 3,
+            "2": 1
+        }
+    },
+    "15": {
+        "filename": "hs4_n4.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": 1.0,
+        "subcirc_length": {
+            "0": 4
+        }
+    },
+    "16": {
+        "filename": "ising_n10.qasm",
+        "num_cuts": 20,
+        "sampling_overhead": 1.2157665459056929e+19,
+        "subcirc_length": {
+            "0": 4,
+            "1": 4,
+            "2": 2
+        }
+    },
+    "17": {
+        "filename": "iswap_n2.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 81.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1
+        }
+    },
+    "18": {
+        "filename": "linearsolver_n3.qasm",
+        "num_cuts": 4,
+        "sampling_overhead": 6561.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        }
+    },
+    "19": {
+        "filename": "lpn_n5.qasm",
+        "num_cuts": 1,
+        "sampling_overhead": 9.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 2
+        }
+    },
+    "20": {
+        "filename": "pea_n5.qasm",
+        "num_cuts": 13,
+        "sampling_overhead": 2541865828329.0,
+        "subcirc_length": {
+            "0": 2,
+            "1": 1,
+            "2": 2
+        }
+    },
+    "21": {
+        "filename": "qaoa_n3.qasm",
+        "num_cuts": 6,
+        "sampling_overhead": 531441.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        }
+    },
+    "22": {
+        "filename": "qaoa_n6.qasm",
+        "num_cuts": 12,
+        "sampling_overhead": 282429536481.0,
+        "subcirc_length": {
+            "0": 3,
+            "1": 3
+        }
+    },
+    "23": {
+        "filename": "qec_en_n5.qasm",
+        "num_cuts": 7,
+        "sampling_overhead": 4782969.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 2,
+            "2": 1,
+            "3": 1
+        }
+    },
+    "24": {
+        "filename": "qft_n4.qasm",
+        "num_cuts": 8,
+        "sampling_overhead": 43046721.0,
+        "subcirc_length": {
+            "0": 4
+        }
+    },
+    "25": {
+        "filename": "qpe_n9.qasm",
+        "num_cuts": 18,
+        "sampling_overhead": 1.5009463529699914e+17,
+        "subcirc_length": {
+            "0": 9
+        }
+    },
+    "26": {
+        "filename": "qrng_n4.qasm",
+        "num_cuts": 0,
+        "sampling_overhead": 1.0,
+        "subcirc_length": {
+            "0": 4
+        }
+    },
+    "27": {
+        "filename": "quantumwalks_n2.qasm",
+        "num_cuts": 3,
+        "sampling_overhead": 729.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1
+        }
+    },
+    "28": {
+        "filename": "sat_n7.qasm",
+        "num_cuts": 32,
+        "sampling_overhead": 3.4336838202925124e+30,
+        "subcirc_length": {
+            "0": 3,
+            "1": 3,
+            "2": 1
+        }
+    },
+    "29": {
+        "filename": "simon_n6.qasm",
+        "num_cuts": 1,
+        "sampling_overhead": 9.0,
+        "subcirc_length": {
+            "0": 6
+        }
+    },
+    "30": {
+        "filename": "teleportation_n3.qasm",
+        "num_cuts": 2,
+        "sampling_overhead": 81.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        }
+    },
+    "31": {
+        "filename": "toffoli_n3.qasm",
+        "num_cuts": 6,
+        "sampling_overhead": 531441.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        }
+    },
+    "32": {
+        "filename": "variational_n4.qasm",
+        "num_cuts": 4,
+        "sampling_overhead": 6561.0,
+        "subcirc_length": {
+            "0": 2,
+            "1": 2
+        }
+    },
+    "33": {
+        "filename": "vqe_n4.qasm",
+        "num_cuts": 3,
+        "sampling_overhead": 729.0,
+        "subcirc_length": {
+            "0": 2,
+            "1": 2
+        }
+    },
+    "34": {
+        "filename": "wstate_n3.qasm",
+        "num_cuts": 8,
+        "sampling_overhead": 43046721.0,
+        "subcirc_length": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        }
+    }
+}
